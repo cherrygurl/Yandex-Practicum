@@ -3,6 +3,7 @@
 Задания, выполненные в рамках обучения в Яндекс.Практикум
 
 Языки: SQL, Python
+
 Библиотеки: pandas, numpy, seaborn, matplotlib, sklearn, scipy, math, plotly
 
 [Анализ базы данных c помощью SQL](https://github.com/cherrygurl/Yandex-Pracrticum/blob/8eca8a87e8a045176698a483848b6a9a3aeef919/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B1%D0%B0%D0%B7%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20c%20%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E%20SQL.ipynb)
